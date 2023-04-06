@@ -1,0 +1,61 @@
+.pricing {
+    padding: 80px 0 60px;
+    background-color: #F5F5F5;
+}
+
+
+
+.pricing-wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+
+.pricing-card {
+    width: 340px;
+    margin: 0 15px;
+}
+
+.subscription-option {
+    color: rgba(255, 255, 255, 1);
+    ;
+    background-color: #333333;    
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.price {
+    color: rgba(255, 255, 255, 1);
+    background-color: #333333;
+    font-family: 'Raleway';
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 100px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.term {
+    color: rgba(255, 255, 255, 0.5);
+    background-color: #333333;  
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.memory {
+    color: #86878B;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 4px;  
+}
